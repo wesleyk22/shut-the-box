@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Door
+comment1.params=number
+comment1.target=Door(int)
+comment2.params=
+comment2.target=void\ flipDown()
+comment3.params=
+comment3.target=boolean\ isFlipped()
+comment4.params=
+comment4.target=void\ flipUp()
+comment5.params=
+comment5.target=int\ getNumber()
+comment6.params=b
+comment6.target=void\ setHighlight(boolean)
+numComments=7

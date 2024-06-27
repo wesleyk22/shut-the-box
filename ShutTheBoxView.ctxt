@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ShutTheBoxView
+comment0.text=\ I\ tried\ making\ this\ just\ extend\ application,\ but\ instead\ I'm\ making\ this\r\n\ \ \ view\ class\ extend\ borderpane\ and\ all\ of\ UI\ will\ be\ inside\ of\ this\ BorderPane,\r\n\ \ \ and\ then\ in\ the\ main\ class\ I\ will\ launch\ an\ application\ with\ an\ instance\r\nof\ this\ borderpane\ view
+comment1.params=
+comment1.target=ShutTheBoxView()
+comment10.params=doorNum
+comment10.target=Door\ getDoorFXObject(int)
+comment11.params=
+comment11.target=Door[]\ getDoors()
+comment2.params=
+comment2.target=void\ clearHighlights()
+comment3.params=
+comment3.target=void\ resetToDefaults()
+comment4.params=
+comment4.target=javafx.scene.control.Button\ getRollButton()
+comment4.text=Getters/Setters
+comment5.params=
+comment5.target=javafx.scene.control.Button\ getRestartButton()
+comment6.params=
+comment6.target=javafx.scene.control.Button\ getUndoButton()
+comment7.params=
+comment7.target=Die\ getDieOne()
+comment8.params=
+comment8.target=Die\ getDieTwo()
+comment9.params=s
+comment9.target=void\ setGameText(java.lang.String)
+numComments=12

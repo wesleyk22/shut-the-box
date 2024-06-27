@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Die
+comment1.params=
+comment1.target=Die()
+comment2.params=resultNumber
+comment2.target=void\ roll(int)
+comment3.params=resultNum
+comment3.target=void\ setFace(int)
+numComments=4
